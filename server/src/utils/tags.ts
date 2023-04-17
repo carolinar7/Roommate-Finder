@@ -18,6 +18,5 @@ export const tagsStyles = [
     "🏛 History",
     "🌸 Anime",
     "🛍 Shopping",
-    "🍻 Alcohol",
   ];
   

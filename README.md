@@ -1,3 +1,7 @@
+Video Presentation:
+
+https://youtu.be/mL3gK8_sfms
+
 Get Started:
 1. When loading the project into Visual Studio Code, load from the root folder where the client and server folders originate.
 2. Make sure that your terminal directory is set to the root folder
